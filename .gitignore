@@ -1,2 +1,4 @@
 db/
 .idea/
+__pycache__/
+source_documents/
